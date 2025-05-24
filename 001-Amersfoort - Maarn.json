@@ -1,0 +1,47 @@
+{
+  "etappe": 1,
+  "van": "Amersfoort",
+  "naar": "Austerlitz",
+  "afstand_km": 27.3,
+  "provincie": "Utrecht",
+  "thema": ["stad", "bos", "historisch erfgoed"],
+  "geverifieerd": false,
+  "poi": [
+    {
+      "naam": "Onze Lieve Vrouwetoren",
+      "type": "monument",
+      "omschrijving": "Gotische kerktoren in Amersfoort, tevens nulpunt van het Nederlandse kadaster.",
+      "locatie": "Amersfoort"
+    },
+    {
+      "naam": "Koppelpoort",
+      "type": "historische poort",
+      "omschrijving": "Middeleeuwse land- en waterpoort uit de 15e eeuw, onderdeel van de stadsmuur van Amersfoort.",
+      "locatie": "Amersfoort"
+    },
+    {
+      "naam": "Landgoed Den Treek-Henschoten",
+      "type": "natuurgebied",
+      "omschrijving": "Uitgestrekt particulier landgoed met bossen, heide en zandverstuivingen.",
+      "locatie": "tussen Amersfoort en Austerlitz"
+    },
+    {
+      "naam": "De Koepel van Stoop",
+      "type": "uitzichtpunt",
+      "omschrijving": "19e-eeuwse stenen koepel op een heuvel in het bos, met uitzicht over het landgoed.",
+      "locatie": "Den Treek"
+    },
+    {
+      "naam": "Utrechtse Heuvelrug",
+      "type": "nationaal park",
+      "omschrijving": "Langgerekt heuvelruggebied met bossen, natuurgebieden en historische landschappen.",
+      "locatie": "omgeving Austerlitz"
+    },
+    {
+      "naam": "Pyramide van Austerlitz",
+      "type": "monument",
+      "omschrijving": "Aarden piramide gebouwd in 1804 door soldaten van Napoleon. Uitzicht over de Utrechtse Heuvelrug.",
+      "locatie": "Austerlitz"
+    }
+  ]
+}
