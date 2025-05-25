@@ -1,6 +1,6 @@
 # README – Richtlijnen voor Aanpassingen aan de Spiraalpad-route
 
-![image-20250524192655117](C:\data\2025\spiraalpad\image-20250524192655117.png)
+![image-20250524192655117](complete.png)
 
 Welkom bij het Spiraalpad project! Deze route van circa 3000 km slingert in een spiraal van Amersfoort naar Maastricht en verbindt de belangrijkste culturele, natuurlijke en historische plekken van Nederland.
 
