@@ -1,0 +1,78 @@
+{
+  "spiraalpad": "0.1",
+  "author": "Freek van Keulen",
+  "licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "etappe": 2,
+  "van": "Maarn",
+  "naar": "Cothen",
+  "afstand_km": 24.5,
+  "provincie": "Utrecht",
+  "thema": [
+    "bos",
+    "landgoederen",
+    "rivierlandschap"
+  ],
+  "geverifieerd": false,
+  "poi": [
+    {
+      "naam": "Kaapse Bossen",
+      "type": "natuurgebied",
+      "omschrijving": "Uitgestrekt bosgebied met wandelpaden en een uitkijktoren, onderdeel van de Utrechtse Heuvelrug.",
+      "locatie": "Maarn"
+    },
+    {
+      "naam": "Helenaheuvel",
+      "type": "uitzichtpunt",
+      "omschrijving": "Heuvel met theehuis, biedt uitzicht over het bosgebied rond Maarn.",
+      "locatie": "Maarn"
+    },
+    {
+      "naam": "Langbroekerwetering",
+      "type": "cultuurlandschap",
+      "omschrijving": "Historische ontginningszone met watergangen, boomgaarden en landgoederen.",
+      "locatie": "tussen Doorn en Cothen"
+    },
+    {
+      "naam": "Kasteel Lunenburg",
+      "type": "kasteel",
+      "omschrijving": "Gerestaureerd kasteel uit de 18e eeuw, gelegen aan de Langbroekerwetering.",
+      "locatie": "Langbroek"
+    },
+    {
+      "naam": "Kasteel Walenburg",
+      "type": "kasteel",
+      "omschrijving": "Middeleeuwse woontoren met gracht, privébezit en zichtbaar vanaf de weg.",
+      "locatie": "Langbroek"
+    },
+    {
+      "naam": "Kasteel Sandenburg",
+      "type": "kasteel",
+      "omschrijving": "Landgoed en kasteel met monumentale lanen en parkbos, niet publiek toegankelijk.",
+      "locatie": "Langbroek"
+    },
+    {
+      "naam": "Kromme Rijn",
+      "type": "rivier",
+      "omschrijving": "Meanderende rivier door het landschap rond Cothen, omgeven door fruitboomgaarden.",
+      "locatie": "Cothen"
+    },
+    {
+      "naam": "Molen Oog In ’t Zeil",
+      "type": "windmolen",
+      "omschrijving": "Rijksmonument en werkende windmolen in Cothen, gebouwd in 1869.",
+      "locatie": "Cothen"
+    },
+    {
+      "naam": "Kasteel Duurstede",
+      "type": "kasteel",
+      "omschrijving": "Ruïne van een middeleeuws kasteel op een eiland in het stadspark van Wijk bij Duurstede.",
+      "locatie": "Wijk bij Duurstede"
+    },
+    {
+      "naam": "Wijk bij Duurstede",
+      "type": "historische stad",
+      "omschrijving": "Gezellig stadje aan de Lek met kasteelruïne, molen, haven en oude binnenstad.",
+      "locatie": "Wijk bij Duurstede"
+    }
+  ]
+}

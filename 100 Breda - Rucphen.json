@@ -1,0 +1,41 @@
+{
+  "spiraalpad": "0.1",
+  "author": "Freek van Keulen",
+  "licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "etappe": 100,
+  "van": "Breda",
+  "naar": "Rucphen",
+  "provincie": "Noord-Brabant",
+  "thema": [
+    "natuur",
+    "bos",
+    "cultuurlandschap"
+  ],
+  "geverifieerd": false,
+  "poi": [
+    {
+      "naam": "Kasteel Bouvigne",
+      "type": "kasteel",
+      "omschrijving": "Pittoresk kasteel met drie stijltuinen en een waterpartij, gelegen aan de rand van het Mastbos.",
+      "locatie": "Breda"
+    },
+    {
+      "naam": "Mastbos",
+      "type": "natuurgebied",
+      "omschrijving": "Een van de oudste aangeplante bossen van Nederland, bekend om zijn rechte lanen en grote biodiversiteit.",
+      "locatie": "Breda"
+    },
+    {
+      "naam": "De Pannenhoef",
+      "type": "natuurgebied",
+      "omschrijving": "Uitgestrekt natuurgebied van circa 706 hectare tussen Etten-Leur, Zundert, Rijsbergen en Sprundel. Het gebied bestaat uit gevarieerd bos, bloemrijke weilanden en elf herstelde vennen. Oorspronkelijk een veengebied, later ontgonnen en sinds 1970 in beheer bij Brabants Landschap. Bekend om de Turfvaart, de Zwarte Schuur en rijke flora en fauna, waaronder spechten, reeën en zeldzame planten.",
+      "locatie": "tussen Etten-Leur, Zundert en Rijsbergen"
+    },
+    {
+      "naam": "Rucphense Heide",
+      "type": "natuurgebied",
+      "omschrijving": "Uitgestrekt heidegebied met bossen, zandverstuivingen en vennen, gelegen tussen Schijf en Rucphen. Het gebied is een belangrijk leefgebied voor diverse planten- en diersoorten en wordt deels gebruikt als militair oefenterrein.",
+      "locatie": "tussen Schijf en Rucphen"
+    }
+  ]
+}

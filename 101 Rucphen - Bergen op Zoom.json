@@ -1,0 +1,44 @@
+{
+    "spiraalpad": "0.1",
+    "author": "Freek van Keulen",
+    "licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "etappe": 101,
+    "van": "Rucphen",
+    "naar": "Bergen op Zoom",
+    "afstand_km": 26.0,
+    "provincie": "Noord-Brabant",
+    "thema": ["natuur", "vestingstad", "cultuurhistorie"],
+    "geverifieerd": false,
+    "poi": [
+        {
+            "naam": "Rucphense Bossen",
+            "type": "natuurgebied",
+            "omschrijving": "Uitgestrekt gebied met naaldbossen, heide, zandvlaktes en graslanden. Populair voor wandelen, fietsen en paardrijden.",
+            "locatie": "Rucphen"
+        },
+        {
+            "naam": "Brabantse Wal",
+            "type": "landschapsrand",
+            "omschrijving": "Markante steilrand met hoogteverschillen tot 20 meter, biedt uitzicht over Zeeland en is onderdeel van UNESCO Geopark Schelde Delta.",
+            "locatie": "omgeving Bergen op Zoom"
+        },
+        {
+            "naam": "Markiezenhof",
+            "type": "stadspaleis",
+            "omschrijving": "Laatgotisch stadspaleis, voormalig residentie van de markiezen van Bergen op Zoom, nu museum en cultureel centrum.",
+            "locatie": "Bergen op Zoom"
+        },
+        {
+            "naam": "Gevangenpoort",
+            "type": "stadspoort",
+            "omschrijving": "Middeleeuwse stadspoort, een van de oudste van Nederland, onderdeel van de historische stadsmuur.",
+            "locatie": "Bergen op Zoom"
+        },
+        {
+            "naam": "Sint-Gertrudiskerk (Peperbus)",
+            "type": "kerk",
+            "omschrijving": "Karakteristieke kerk met opvallende toren, bekend als de Peperbus, centraal gelegen aan de Grote Markt.",
+            "locatie": "Bergen op Zoom"
+        }
+    ]
+}

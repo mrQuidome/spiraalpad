@@ -1,0 +1,32 @@
+{
+    "spiraalpad": "0.1",
+    "author": "Freek van Keulen",
+    "licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "etappe": 103,
+    "van": "Rilland",
+    "naar": "Kruiningen",
+    "afstand_km": 14.0,
+    "provincie": "Zeeland",
+    "thema": ["natuur", "waterstaat", "cultuurhistorie"],
+    "geverifieerd": false,
+    "poi": [
+        {
+            "naam": "Oude Molen",
+            "type": "windmolen",
+            "omschrijving": "Windmolen uit 1801, regelmatig in bedrijf en te bezoeken.",
+            "locatie": "Kruiningen"
+        },
+        {
+            "naam": "Johanneskerk",
+            "type": "kerk",
+            "omschrijving": "Gotische kerk met achtkantige toren uit de 14e eeuw, Rijksmonument.",
+            "locatie": "Kruiningen"
+        },
+        {
+            "naam": "Kruiningen-Yerseke Station",
+            "type": "station",
+            "omschrijving": "Station geopend in 1868, gelegen tussen Kruiningen en Yerseke.",
+            "locatie": "Kruiningen"
+        }
+    ]
+}

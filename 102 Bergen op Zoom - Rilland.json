@@ -1,0 +1,32 @@
+{
+    "spiraalpad": "0.1",
+    "author": "Freek van Keulen",
+    "licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "etappe": 102,
+    "van": "Bergen op Zoom",
+    "naar": "Rilland",
+    "afstand_km": 22.0,
+    "provincie": ["Noord-Brabant", "Zeeland"],
+    "thema": ["vestingstad", "waterbeheer", "natuur", "geschiedenis"],
+    "geverifieerd": false,
+    "poi": [
+        {
+            "naam": "Grote Markt",
+            "type": "kerkplein",
+            "omschrijving": "Historisch stadsplein met de Peperbus-toren, uitzicht over de stad vanaf de toren.",
+            "locatie": "Bergen op Zoom"
+        },
+        {
+            "naam": "Kreekraksluizen",
+            "type": "sluizencomplex",
+            "omschrijving": "Belangrijk sluizencomplex op de scheepvaartroute tussen Schelde en Rijn.",
+            "locatie": "tussen Bergen op Zoom en Rilland"
+        },
+        {
+            "naam": "Rattekaai",
+            "type": "getijdenhaven",
+            "omschrijving": "Rustige, historische haven aan de Oosterschelde, geliefd bij vogelaars.",
+            "locatie": "ten zuiden van Rilland"
+        }
+    ]
+}
