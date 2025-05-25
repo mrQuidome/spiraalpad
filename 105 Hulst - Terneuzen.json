@@ -1,0 +1,38 @@
+{
+	"spiraalpad": "0.1",
+	"author": "Freek van Keulen",
+	"licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+	"etappe": 105,
+	"van": "Hulst",
+	"naar": "Terneuzen",
+	"afstand_km": 24.0,
+	"provincie": "Zeeland",
+	"thema": ["vestingstad", "natuur", "waterbeheer", "cultuurhistorie"],
+	"geverifieerd": false,
+	"poi": [
+		{
+			"naam": "Scheldeboulevard",
+			"type": "boulevard",
+			"omschrijving": "Wandelpromenade langs de Westerschelde met uitzicht op passerende schepen en de skyline van Terneuzen.",
+			"locatie": "Terneuzen"
+		},
+		{
+			"naam": "Portaal van Vlaanderen",
+			"type": "bezoekerscentrum",
+			"omschrijving": "Informatief centrum over de haven van Terneuzen en het sluizencomplex, met rondleidingen en exposities.",
+			"locatie": "Terneuzen"
+		},
+		{
+			"naam": "Sluizencomplex Terneuzen",
+			"type": "waterbouwkundig werk",
+			"omschrijving": "Belangrijk sluizencomplex dat de Schelde verbindt met het Kanaal van Gent naar Terneuzen.",
+			"locatie": "Terneuzen"
+		},
+		{
+			"naam": "Museum Schooltijd",
+			"type": "museum",
+			"omschrijving": "Museum gewijd aan de geschiedenis van het onderwijs in Nederland, met klaslokalen uit verschillende tijdperken.",
+			"locatie": "Terneuzen"
+		}
+	]
+}
