@@ -1,0 +1,44 @@
+{
+	"spiraalpad": "0.1",
+	"author": "Freek van Keulen",
+	"licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+	"etappe": 107,
+	"van": "IJzendijke",
+	"naar": "Terhofstede",
+	"afstand_km": 18.0,
+	"provincie": "Zeeland",
+	"thema": ["vestingstad", "natuur", "oorlogsherinnering", "cultuurhistorie"],
+	"geverifieerd": false,
+	"poi": [
+		{
+			"naam": "Museum Het Bolwerk",
+			"type": "museum",
+			"omschrijving": "Museum over de Staats-Spaanse Linies en de militaire geschiedenis van de regio.",
+			"locatie": "IJzendijke"
+		},
+		{
+			"naam": "Windmolen De Witte Juffer",
+			"type": "windmolen",
+			"omschrijving": "Stellingmolen uit 1841, een markant herkenningspunt in IJzendijke.",
+			"locatie": "IJzendijke"
+		},
+		{
+			"naam": "Mauritskerk",
+			"type": "kerk",
+			"omschrijving": "Hervormde kerk uit 1612, gelegen aan de Kerkstraat.",
+			"locatie": "IJzendijke"
+		},
+		{
+			"naam": "Marktplein IJzendijke",
+			"type": "plein",
+			"omschrijving": "Historisch marktplein met beeld van Prins Maurits en diverse monumentale panden.",
+			"locatie": "IJzendijke"
+		},
+		{
+			"naam": "Molen De Meermin",
+			"type": "windmolen",
+			"omschrijving": "Restant van een ronde stenen molen uit 1896, gelegen in Terhofstede.",
+			"locatie": "Terhofstede"
+		}
+	]
+}

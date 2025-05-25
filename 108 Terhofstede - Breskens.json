@@ -1,0 +1,44 @@
+{
+	"spiraalpad": "0.1",
+	"author": "Freek van Keulen",
+	"licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+	"etappe": 108,
+	"van": "Terhofstede",
+	"naar": "Breskens",
+	"afstand_km": 20.0,
+	"provincie": "Zeeland",
+	"thema": ["natuur", "kust", "maritiem erfgoed", "vestingstad"],
+	"geverifieerd": false,
+	"poi": [
+		{
+			"naam": "De Meermin",
+			"type": "windmolen",
+			"omschrijving": "Restant van een ronde stenen molen uit 1896, gelegen in Terhofstede.",
+			"locatie": "Terhofstede"
+		},
+		{
+			"naam": "Waterdunen",
+			"type": "natuurgebied",
+			"omschrijving": "Innovatief natuur- en recreatiegebied waar getijdenwerking en natuurontwikkeling samenkomen.",
+			"locatie": "tussen Groede en Breskens"
+		},
+		{
+			"naam": "Visserijmuseum Breskens",
+			"type": "museum",
+			"omschrijving": "Museum over de visserijgeschiedenis van Breskens met zeeaquarium en fossielencollectie.",
+			"locatie": "Breskens"
+		},
+		{
+			"naam": "Vuurtoren Nieuwe Sluis",
+			"type": "vuurtoren",
+			"omschrijving": "Oudste nog bestaande gietijzeren vuurtoren van Nederland, gebouwd in 1867.",
+			"locatie": "Breskens"
+		},
+		{
+			"naam": "Breskens Beach",
+			"type": "strand",
+			"omschrijving": "Breed zandstrand langs de Westerschelde, populair bij wandelaars en strandliefhebbers.",
+			"locatie": "Breskens"
+		}
+	]
+}
