@@ -1,4 +1,7 @@
 {
+  "spiraalpad": "0.1"
+  "author": "Freek van Keulen"
+  "licence": "https://creativecommons.org/licenses/by-nc/4.0/"
   "etappe": 1,
   "van": "Amersfoort",
   "naar": "Austerlitz",
@@ -11,6 +14,12 @@
       "naam": "Onze Lieve Vrouwetoren",
       "type": "monument",
       "omschrijving": "Gotische kerktoren in Amersfoort, tevens nulpunt van het Nederlandse kadaster.",
+      "locatie": "Amersfoort"
+    },
+	{
+      "naam": "Eemplein",
+      "type": "stadsplein",
+      "omschrijving": "Modern stadsplein met winkels, horeca en cultuur in het hart van Amersfoort.",
       "locatie": "Amersfoort"
     },
     {

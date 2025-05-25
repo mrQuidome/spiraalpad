@@ -2,28 +2,18 @@
 
 ![image-20250524192655117](C:\data\2025\spiraalpad\image-20250524192655117.png)
 
-Welkom bij het Spiraalpad-project! Deze route van circa 3000 km slingert in een spiraal van Amersfoort naar Maastricht en verbindt de belangrijkste culturele, natuurlijke en historische plekken van Nederland.
+Welkom bij het Spiraalpad project! Deze route van circa 3000 km slingert in een spiraal van Amersfoort naar Maastricht en verbindt de belangrijkste culturele, natuurlijke en historische plekken van Nederland.
 
 Deze README beschrijft de regels en uitgangspunten die gehanteerd worden bij het aanpassen, uitbreiden of optimaliseren van de route. Het doel is om consistentie, kwaliteit en de missie van het Spiraalpad te waarborgen.
 
 ## MUST: Verplichte componenten en regels
 
 - Start- en eindpunt
-
 - Start: Amersfoort
-
 - Einde: Maastricht
-
 - Verplichte POI’s (Points of Interest)
-
 - Alle 12 provinciehoofdsteden
-
 - Alle UNESCO Werelderfgoederen in Nederland (9)
-
-- Alle UNESCO kandidaten (5)
-
-- Alle UNESCO voormalige kandidaten (8)
-
 - De buitenste lus volgt zo veel mogelijk de grens van Nederland
 
 
@@ -53,6 +43,10 @@ Deze README beschrijft de regels en uitgangspunten die gehanteerd worden bij het
 - Buiten steden: natuurgebieden en stilteplekken
 
 - Maak bij voorkeur gebruik van OV-verbonden steden als etappegrenzen
+
+- Alle UNESCO kandidaten (5)
+
+- Alle UNESCO voormalige kandidaten (8)
 
 
 ## Te vermijden
