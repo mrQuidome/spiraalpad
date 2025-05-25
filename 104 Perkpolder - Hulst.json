@@ -1,0 +1,62 @@
+{
+	"spiraalpad": "0.1",
+	"author": "Freek van Keulen",
+	"licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+	"etappe": 104,
+	"van": "Perkpolder",
+	"naar": "Hulst",
+	"afstand_km": 15.0,
+	"provincie": "Zeeland",
+	"thema": ["natuur", "vestingstad", "cultuurhistorie"],
+	"geverifieerd": false,
+	"poi": [
+		{
+			"naam": "Walsoorden",
+			"type": "dorp",
+			"omschrijving": "Klein dorp met de historische Beaufortsluis uit 1761, uniek vanwege het ontbreken van deuren en gebruik van een schuifmechanisme.",
+			"locatie": "Walsoorden"
+		},
+		{
+			"naam": "Grenspark Groot Saeftinghe",
+			"type": "natuurgebied",
+			"omschrijving": "Uitgestrekt natuurgebied waar land en water elkaar ontmoeten, met mogelijkheden voor wandelingen en natuurexcursies.",
+			"locatie": "omgeving Perkpolder"
+		},
+		{
+			"naam": "Sint-Willibrordusbasiliek",
+			"type": "basiliek",
+			"omschrijving": "Gotische basiliek uit de 13e eeuw in het centrum van Hulst, met een moderne toren uit de jaren 1950.",
+			"locatie": "Hulst"
+		},
+		{
+			"naam": "Stadswallen van Hulst",
+			"type": "vestingwerken",
+			"omschrijving": "Goed bewaarde vestingwerken rondom Hulst, oorspronkelijk uit de 17e eeuw, ideaal voor een stadswandeling.",
+			"locatie": "Hulst"
+		},
+		{
+			"naam": "Museum Hulst",
+			"type": "museum",
+			"omschrijving": "Streekmuseum gevestigd in 's-Landshuis, belicht de geschiedenis van de Vier Ambachten en het verhaal van Reynaert de Vos.",
+			"locatie": "Hulst"
+		},
+		{
+			"naam": "Stadsmolen Hulst",
+			"type": "windmolen",
+			"omschrijving": "Oude graanmolen uit de 18e eeuw, gelegen op de stadswallen van Hulst, regelmatig geopend voor bezoekers.",
+			"locatie": "Hulst"
+		},
+		{
+			"naam": "Bollewerckpoort",
+			"type": "stadspoort",
+			"omschrijving": "Overblijfselen van een middeleeuwse stadspoort, herontdekt en blootgelegd in 1952.",
+			"locatie": "Hulst"
+		},
+		{
+			"naam": "Nieuwe Bierkaai",
+			"type": "havengebied",
+			"omschrijving": "Gerenoveerd havengebied met brug en terrasjes, herinnert aan de historische handelshaven van Hulst.",
+			"locatie": "Hulst"
+		}
+	]
+}
