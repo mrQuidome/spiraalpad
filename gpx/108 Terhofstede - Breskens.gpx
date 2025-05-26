@@ -2,10 +2,22 @@
 <gpx version="1.0" creator="GpsPrune v25 activityworkshop.net"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0"
- xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"
->
-	<name>GpsPruneTrack</name>
-	<desc>Export from GpsPrune</desc>
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+    <metadata>
+        <name>Terhofstede - Breskens</name>
+        <desc>A long-distance walking route through the Netherlands</desc>
+        <author>
+            <name>Freek van Keulen</name>
+            <email id="freek" domain="spiraalpad.nl"/>
+            <link href="https://spiraalpad.nl"/>
+        </author>
+        <copyright author="Freek van Keulen">
+            <license>https://creativecommons.org/licenses/by-nc/4.0/</license>
+        </copyright>
+        <extensions>
+            <spiraalpad:version xmlns:spiraalpad="https://spiraalpad.nl/ns">0.1</spiraalpad:version>
+        </extensions>
+    </metadata>
 	<trk>
 		<name>GpsPruneTrack</name>
 		<number>1</number>

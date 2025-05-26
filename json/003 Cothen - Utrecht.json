@@ -1,0 +1,67 @@
+{
+  "spiraalpad": "0.1",
+  "author": "Freek van Keulen",
+  "licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "etappe": 100,
+  "van": "Cothen",
+  "naar": "Utrecht",
+  "provincie": "Utrecht",
+  "thema": [
+    "natuur",
+    "cultuur",
+    "historie"
+  ],
+  "geverifieerd": false,
+  "poi": [
+    {
+      "name": "Landgoed Rhijnestein",
+      "type": "Estate",
+      "description": "A historic estate featuring a castle and picturesque gardens.",
+      "coordinates": [51.9995, 5.3100],
+      "location": "Cothen"
+    },
+    {
+      "name": "Protestantse Kerk Cothen",
+      "type": "Church",
+      "description": "A historic Protestant church known for its architecture.",
+      "coordinates": [51.9989, 5.3125],
+      "location": "Cothen"
+    },
+    {
+      "name": "Dom Tower",
+      "type": "Historic Tower",
+      "description": "The tallest church tower in the Netherlands, standing at 112.32 meters, offering panoramic views of Utrecht.",
+      "coordinates": [52.0908, 5.1214],
+      "location": "Utrecht"
+    },
+    {
+      "name": "DOMunder",
+      "type": "Historical Site",
+      "description": "An underground attraction offering tours of the foundational ruins beneath Domplein square.",
+      "coordinates": [52.0906, 5.1210],
+      "location": "Utrecht"
+    },
+    {
+      "name": "Railway Museum",
+      "type": "Museum",
+      "description": "A museum showcasing the history of Dutch railways, located in a former station building.",
+      "coordinates": [52.0881, 5.1323],
+      "location": "Utrecht"
+    },
+    {
+      "name": "Rietveld Schröder House",
+      "type": "Museum",
+      "description": "A UNESCO World Heritage site and iconic example of De Stijl architecture.",
+      "coordinates": [52.0889, 5.1439],
+      "location": "Utrecht"
+    },
+    {
+      "name": "Utrecht",
+      "type": "Provincial capital",
+      "description": "The Capital city of the province Utrecht",
+      "coordinates": [52.0889, 5.1439],
+      "location": "Utrecht"
+    }
+
+  ]
+}

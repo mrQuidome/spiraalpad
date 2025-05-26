@@ -8,7 +8,6 @@ Deze README beschrijft de regels en uitgangspunten die gehanteerd worden bij het
 
 ## MUST: Verplichte componenten en regels
 
-- Start- en eindpunt
 - Start: Amersfoort
 - Einde: Maastricht
 - Verplichte POI’s (Points of Interest)
@@ -20,16 +19,12 @@ Deze README beschrijft de regels en uitgangspunten die gehanteerd worden bij het
 ## Routeprincipes
 
 - Route blijft volledig binnen Nederland (geen grensoverschrijdingen)
-
 - Route mag slingeren, maar vermijdt onnodig teruglopen
-
 - Paden mogen elkaar niet kruisen
-
 - Beeld boven verhaal: visueel interessante of kenmerkende plekken hebben voorrang
-
 - In steden: voorkeur voor bezienswaardigheden (monumenten, architectuur, kunst)
-
 - Buiten steden: voorkeur voor off-road wandelpaden
+- De route kruist nooit, en geen heen en weertjes
 
 
 ## Sterk aanbevolen
@@ -42,7 +37,7 @@ Deze README beschrijft de regels en uitgangspunten die gehanteerd worden bij het
 
 - Buiten steden: natuurgebieden en stilteplekken
 
-- Maak bij voorkeur gebruik van OV-verbonden steden als etappegrenzen
+- Gebruik van OV-verbonden steden als etappegrenzen
 
 - Alle UNESCO kandidaten (5)
 
@@ -50,8 +45,6 @@ Deze README beschrijft de regels en uitgangspunten die gehanteerd worden bij het
 
 
 ## Te vermijden
-
-- Dubbele lussen of overlappende segmenten
 
 - Grensoverschrijdende uitstapjes (ook niet naar België of Duitsland)
 
