@@ -13,8 +13,6 @@ Deze README beschrijft de regels en uitgangspunten die gehanteerd worden bij het
 - Verplichte POI’s (Points of Interest)
 - Alle 12 provinciehoofdsteden
 - Alle UNESCO Werelderfgoederen in Nederland (9)
-- De buitenste lus volgt zo veel mogelijk de grens van Nederland
-
 
 ## Routeprincipes
 

@@ -1,0 +1,38 @@
+{
+  "spiraalpad": "0.1",
+  "author": "Freek van Keulen",
+  "licence": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "etappe": 101,
+  "van": "Utrecht",
+  "naar": "Montfoort",
+  "provincie": "Utrecht",
+  "thema": [
+    "natuur",
+    "cultuur",
+    "historie"
+  ],
+  "geverifieerd": false,
+  "poi": [
+    {
+      "name": "St. Martin's Cathedral",
+      "type": "Cathedral",
+      "description": "A Gothic church dedicated to Saint Martin of Tours, part of the UNESCO World Heritage Site 'Frontiers of the Roman Empire -- The Lower German Limes'.",
+      "coordinates": [52.0906, 5.1210],
+      "location": "Utrecht"
+    },
+    {
+      "name": "Kasteel Montfoort",
+      "type": "Castle",
+      "description": "A historic castle built in 1163 by Bishop Godefried van Rhenen to defend the Sticht of Utrecht from the Earldom of Holland.",
+      "coordinates": [52.0450, 4.9500],
+      "location": "Montfoort"
+    },
+    {
+      "name": "De Valk Windmill",
+      "type": "Windmill",
+      "description": "A traditional Dutch windmill located in Montfoort, showcasing the country's rich milling history.",
+      "coordinates": [52.0455, 4.9510],
+      "location": "Montfoort"
+    }
+  ]
+}
