@@ -1,51 +1,80 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.0" creator="GpsPrune v20 activityworkshop.net"
+<?xml version="1.0" encoding="windows-1252"?>
+<gpx version="1.0" creator="GpsPrune v25 activityworkshop.net"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
-
-	<name>Spiraalpad</name>
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"
+>
+	<name>GpsPruneTrack</name>
 	<desc>Export from GpsPrune</desc>
 	<trk>
-		<name>Spiraalpad</name>
+		<name>GpsPruneTrack</name>
 		<number>1</number>
 		<trkseg>
-			<trkpt lat="52.51178633766756" lon="4.946294199307045">
+			<trkpt lat="52.496434300105" lon="4.796153814527">
 			</trkpt>
-			<trkpt lat="52.51247222222222" lon="4.946055555555556">
+			<trkpt lat="52.498246" lon="4.795280">
 			</trkpt>
-			<trkpt lat="52.51274206073902" lon="4.945280330549591">
+			<trkpt lat="52.500402" lon="4.795323">
 			</trkpt>
-			<trkpt lat="52.512861111111114" lon="4.942972222222222">
+			<trkpt lat="52.501590" lon="4.795173">
 			</trkpt>
-			<trkpt lat="52.51106582599611" lon="4.928973728915686">
+			<trkpt lat="52.502635" lon="4.795366">
 			</trkpt>
-			<trkpt lat="52.51163913835669" lon="4.922583718390826">
+			<trkpt lat="52.503589" lon="4.794379">
 			</trkpt>
-			<trkpt lat="52.517334704923684" lon="4.909004241169203">
+			<trkpt lat="52.504673" lon="4.793950">
 			</trkpt>
-			<trkpt lat="52.517805555555555" lon="4.894138888888889">
+			<trkpt lat="52.505182" lon="4.793971">
 			</trkpt>
-			<trkpt lat="52.520180806528394" lon="4.874959155163375">
+			<trkpt lat="52.505731" lon="4.794250">
 			</trkpt>
-			<trkpt lat="52.52521899585045" lon="4.859530378889232">
+			<trkpt lat="52.506645" lon="4.794894">
 			</trkpt>
-			<trkpt lat="52.52544444444444" lon="4.857055555555555">
+			<trkpt lat="52.509767" lon="4.791804">
 			</trkpt>
-			<trkpt lat="52.525083333333335" lon="4.851916666666667">
+			<trkpt lat="52.509845" lon="4.790989">
 			</trkpt>
-			<trkpt lat="52.52536687119065" lon="4.849616451402342">
+			<trkpt lat="52.510080" lon="4.790559">
 			</trkpt>
-			<trkpt lat="52.53619448938934" lon="4.8560615556504985">
+			<trkpt lat="52.510629" lon="4.790302">
 			</trkpt>
-			<trkpt lat="52.53944652763737" lon="4.841946174621582">
+			<trkpt lat="52.511020" lon="4.790903">
 			</trkpt>
-			<trkpt lat="52.54002161442344" lon="4.839061361817362">
+			<trkpt lat="52.515721" lon="4.790345">
 			</trkpt>
-			<trkpt lat="52.54063888888889" lon="4.836972222222221">
+			<trkpt lat="52.516557" lon="4.790774">
 			</trkpt>
-			<trkpt lat="52.54025" lon="4.83661111111111">
+			<trkpt lat="52.517314" lon="4.790130">
 			</trkpt>
-			<trkpt lat="52.54075" lon="4.834305555555555">
+			<trkpt lat="52.523947" lon="4.797898">
+			</trkpt>
+			<trkpt lat="52.524391" lon="4.799615">
+			</trkpt>
+			<trkpt lat="52.524887" lon="4.804550">
+			</trkpt>
+			<trkpt lat="52.530083" lon="4.812017">
+			</trkpt>
+			<trkpt lat="52.530474" lon="4.812961">
+			</trkpt>
+			<trkpt lat="52.530735" lon="4.818411">
+			</trkpt>
+			<trkpt lat="52.531101" lon="4.820686">
+			</trkpt>
+			<trkpt lat="52.534847" lon="4.826640">
+			</trkpt>
+			<trkpt lat="52.538410" lon="4.833346">
+			</trkpt>
+			<trkpt lat="52.538469" lon="4.833421">
+			</trkpt>
+			<trkpt lat="52.538782" lon="4.833185">
+			</trkpt>
+			<trkpt lat="52.538952" lon="4.833260">
+			</trkpt>
+			<trkpt lat="52.539396" lon="4.833593">
+			</trkpt>
+			<trkpt lat="52.539467" lon="4.833947">
+			</trkpt>
+			<trkpt lat="52.539761" lon="4.834054">
 			</trkpt>
 			<trkpt lat="52.541444444444444" lon="4.834361111111111">
 			</trkpt>
