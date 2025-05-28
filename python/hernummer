@@ -1,0 +1,19 @@
+import os
+import re
+
+def hernummer_bestanden(pad):
+    bestanden = [f for f in os.listdir(pad) if re.match(r'^\d{3}.*\.gpx$', f)]
+    bestanden.sort()
+
+    for index, oude_naam in enumerate(bestanden, start=1):
+        _, rest = oude_naam[:3], oude_naam[3:]
+        nieuwe_naam = f"{index:03}{rest}"
+        oud_pad = os.path.join(pad, oude_naam)
+        nieuw_pad = os.path.join(pad, nieuwe_naam)
+        if oude_naam != nieuwe_naam:
+            print(f"Hernoem: {oude_naam} -> {nieuwe_naam}")
+            os.rename(oud_pad, nieuw_pad)
+
+# Voorbeeldgebruik
+pad_naar_map = "/data/2025/spiraalpad/gpx"
+hernummer_bestanden(pad_naar_map)

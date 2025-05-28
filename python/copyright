@@ -1,0 +1,61 @@
+import xml.etree.ElementTree as ET
+from xml.dom import minidom
+
+def prettify(elem):
+    rough_string = ET.tostring(elem, 'utf-8')
+    reparsed = minidom.parseString(rough_string)
+    return reparsed.toprettyxml(indent="  ")
+
+def update_gpx_metadata(gpx_path):
+    tree = ET.parse(gpx_path)
+    root = tree.getroot()
+
+    # Handle namespaces
+    ns = {'default': root.tag.split('}')[0].strip('{')}
+    ET.register_namespace('', ns['default'])
+
+    # Remove <name> and <desc> directly under <gpx>
+    for tag in ['name', 'desc']:
+        for elem in root.findall(f'default:{tag}', ns):
+            root.remove(elem)
+
+    # Remove existing <metadata>
+    existing_metadata = root.find('default:metadata', ns)
+    if existing_metadata is not None:
+        root.remove(existing_metadata)
+
+    # Create new metadata
+    metadata = ET.Element('metadata')
+
+    name = ET.SubElement(metadata, 'name')
+    name.text = '001 - Amersfoort - Maarn'
+
+    desc = ET.SubElement(metadata, 'desc')
+    desc.text = 'A long-distance walking route through the Netherlands'
+
+    author = ET.SubElement(metadata, 'author')
+    author_name = ET.SubElement(author, 'name')
+    author_name.text = 'Spiraalpad'
+
+    copyright_tag = ET.SubElement(metadata, 'copyright', {'author': 'Freek van Keulen'})
+    license_tag = ET.SubElement(copyright_tag, 'license')
+    license_tag.text = 'https://creativecommons.org/licenses/by-nc/4.0/'
+
+    extensions = ET.SubElement(metadata, 'extensions')
+    version = ET.SubElement(
+        extensions, 'spiraalpad:version',
+        {'xmlns:spiraalpad': 'https://spiraalpad.nl/ns'}
+    )
+    version.text = '0.1'
+
+    # Insert metadata at the beginning of the <gpx> root
+    root.insert(0, metadata)
+
+    # Save the updated file
+    tree.write(gpx_path, encoding='utf-8', xml_declaration=True)
+
+    # Optionally return pretty string for inspection
+    return prettify(root)
+
+updated = update_gpx_metadata("path/to/your.gpx")
+print(updated)
