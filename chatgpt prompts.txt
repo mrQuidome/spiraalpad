@@ -1,1 +1,0 @@
-extract the geocoordinates from the attached gpx file. Find POI directly along the route. Give these POI as a json file for example:
