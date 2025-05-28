@@ -1,27 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.0" creator="GpsPrune v20 activityworkshop.net"
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
-	<name>Spiraalpad</name>
-	<desc>Export from GpsPrune</desc>
-	<trk>
-		<name>Spiraalpad</name>
-		<number>1</number>
-		<trkseg>
-			<trkpt lat="52.93455555555555" lon="5.0415833333333335">
-			</trkpt>
-			<trkpt lat="53.06713888888889" lon="5.296166666666667">
-			</trkpt>
-			<trkpt lat="53.06886111111112" lon="5.30175">
-			</trkpt>
-			<trkpt lat="53.07597222222223" lon="5.346638888888889">
-			</trkpt>
-			<trkpt lat="53.09055555555556" lon="5.372472222222222">
-			</trkpt>
-			<trkpt lat="53.09288888888889" lon="5.379694444444445">
-			</trkpt>
-			<trkpt lat="53.09272222222222" lon="5.380277777777778">
-			</trkpt>
-		</trkseg>
-	</trk>
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" creator="GpsPrune v20 activityworkshop.net">
+    <metadata>
+        <name>Spiraalpad</name>
+        <desc>A long-distance walking route through the Netherlands</desc>
+        <author>
+            <name>Freek van Keulen</name>
+            <email>freek@quidome.nl</email>
+        </author>
+        <copyright author="Freek van Keulen">
+            <license>https://creativecommons.org/licenses/by-nc/4.0/</license>
+        </copyright>
+        <extensions>
+            <spiraalpad:version xmlns:spiraalpad="https://spiraalpad.nl/ns">0.1</spiraalpad:version>
+            <spiraalpad:segment xmlns:spiraalpad="https://spiraalpad.nl/ns">035 Den Oever - Cornwerd</spiraalpad:segment>
+        </extensions>
+    </metadata>
+    <trk>
+        <trkseg>
+            <trkpt lon="5.0415833333333335" lat="52.93455555555555" />
+            <trkpt lat="53.06713888888889" lon="5.296166666666667" />
+            <trkpt lon="5.30175" lat="53.06886111111112" />
+            <trkpt lat="53.07597222222223" lon="5.346638888888889" />
+            <trkpt lon="5.372472222222222" lat="53.09055555555556" />
+            <trkpt lat="53.09288888888889" lon="5.379694444444445" />
+            <trkpt lon="5.380277777777778" lat="53.09272222222222" />
+        </trkseg>
+    </trk>
 </gpx>

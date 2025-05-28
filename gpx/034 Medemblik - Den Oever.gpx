@@ -1,88 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.0" creator="GpsPrune v20 activityworkshop.net"
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
-
-	<name>Spiraalpad</name>
-	<desc>Export from GpsPrune</desc>
-	<trk>
-		<name>Spiraalpad</name>
-		<number>1</number>
-		<trkseg>
-			<trkpt lat="52.76943999999998" lon="5.109549999999992">
-			</trkpt>
-			<trkpt lat="52.77051000000001" lon="5.107779999999992">
-			</trkpt>
-			<trkpt lat="52.774179999999994" lon="5.1123499999999895">
-			</trkpt>
-			<trkpt lat="52.77421999999999" lon="5.103449999999992">
-			</trkpt>
-			<trkpt lat="52.774210000000004" lon="5.103439999999998">
-			</trkpt>
-			<trkpt lat="52.845819999999975" lon="5.113520000000016">
-			</trkpt>
-			<trkpt lat="52.88487999999997" lon="5.08085000000009">
-			</trkpt>
-			<trkpt lat="52.8860949912506" lon="5.0800957989501985">
-			</trkpt>
-			<trkpt lat="52.887122832276035" lon="5.078876550292972">
-			</trkpt>
-			<trkpt lat="52.88934087443066" lon="5.079473164062498">
-			</trkpt>
-			<trkpt lat="52.89282371858925" lon="5.076880656127935">
-			</trkpt>
-			<trkpt lat="52.89358986879016" lon="5.074167333374021">
-			</trkpt>
-			<trkpt lat="52.892919189053444" lon="5.072682476196296">
-			</trkpt>
-			<trkpt lat="52.89323000000004" lon="5.071429999999997">
-			</trkpt>
-			<trkpt lat="52.89351000000001" lon="5.0656199999999965">
-			</trkpt>
-			<trkpt lat="52.89239999999999" lon="5.064580000000005">
-			</trkpt>
-			<trkpt lat="52.8948" lon="5.0641399999999965">
-			</trkpt>
-			<trkpt lat="52.89687999999996" lon="5.059439999999991">
-			</trkpt>
-			<trkpt lat="52.89893999999996" lon="5.060320000000008">
-			</trkpt>
-			<trkpt lat="52.90060000000002" lon="5.05331999999999">
-			</trkpt>
-			<trkpt lat="52.908129999999986" lon="5.046800000000009">
-			</trkpt>
-			<trkpt lat="52.90908999999998" lon="5.0501999999999905">
-			</trkpt>
-			<trkpt lat="52.91118000000001" lon="5.04875000000001">
-			</trkpt>
-			<trkpt lat="52.91209999999999" lon="5.05173000000001">
-			</trkpt>
-			<trkpt lat="52.913999999999994" lon="5.050166666666667">
-			</trkpt>
-			<trkpt lat="52.91463888888889" lon="5.048749999999999">
-			</trkpt>
-			<trkpt lat="52.91513888888889" lon="5.048861111111111">
-			</trkpt>
-			<trkpt lat="52.91550412234436" lon="5.046499592590341">
-			</trkpt>
-			<trkpt lat="52.91596999999999" lon="5.048229999999988">
-			</trkpt>
-			<trkpt lat="52.92207999999998" lon="5.043400000000001">
-			</trkpt>
-			<trkpt lat="52.921305555555556" lon="5.039583333333333">
-			</trkpt>
-			<trkpt lat="52.92158000000001" lon="5.036940000000006">
-			</trkpt>
-			<trkpt lat="52.92547222222222" lon="5.038277777777777">
-			</trkpt>
-			<trkpt lat="52.930722222222215" lon="5.037944444444444">
-			</trkpt>
-			<trkpt lat="52.931950000000015" lon="5.03936999999999">
-			</trkpt>
-			<trkpt lat="52.932590000000005" lon="5.037050000000003">
-			</trkpt>
-			<trkpt lat="52.932590000000005" lon="5.037050000000003">
-			</trkpt>
-		</trkseg>
-	</trk>
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" creator="GpsPrune v20 activityworkshop.net" version="1.0">
+    <metadata>
+        <name>Spiraalpad</name>
+        <desc>A long-distance walking route through the Netherlands</desc>
+        <author>
+            <name>Freek van Keulen</name>
+            <email>freek@quidome.nl</email>
+        </author>
+        <copyright author="Freek van Keulen">
+            <license>https://creativecommons.org/licenses/by-nc/4.0/</license>
+        </copyright>
+        <extensions>
+            <spiraalpad:version xmlns:spiraalpad="https://spiraalpad.nl/ns">0.1</spiraalpad:version>
+            <spiraalpad:segment xmlns:spiraalpad="https://spiraalpad.nl/ns">034 Medemblik - Den Oever</spiraalpad:segment>
+        </extensions>
+    </metadata>
+    <trk>
+        <trkseg>
+            <trkpt lon="5.109549999999992" lat="52.76943999999998" />
+            <trkpt lat="52.77051000000001" lon="5.107779999999992" />
+            <trkpt lat="52.774179999999994" lon="5.1123499999999895" />
+            <trkpt lat="52.77421999999999" lon="5.103449999999992" />
+            <trkpt lat="52.774210000000004" lon="5.103439999999998" />
+            <trkpt lat="52.845819999999975" lon="5.113520000000016" />
+            <trkpt lon="5.08085000000009" lat="52.88487999999997" />
+            <trkpt lon="5.0800957989501985" lat="52.8860949912506" />
+            <trkpt lon="5.078876550292972" lat="52.887122832276035" />
+            <trkpt lon="5.079473164062498" lat="52.88934087443066" />
+            <trkpt lat="52.89282371858925" lon="5.076880656127935" />
+            <trkpt lon="5.074167333374021" lat="52.89358986879016" />
+            <trkpt lon="5.072682476196296" lat="52.892919189053444" />
+            <trkpt lon="5.071429999999997" lat="52.89323000000004" />
+            <trkpt lon="5.0656199999999965" lat="52.89351000000001" />
+            <trkpt lon="5.064580000000005" lat="52.89239999999999" />
+            <trkpt lon="5.0641399999999965" lat="52.8948" />
+            <trkpt lon="5.059439999999991" lat="52.89687999999996" />
+            <trkpt lat="52.89893999999996" lon="5.060320000000008" />
+            <trkpt lat="52.90060000000002" lon="5.05331999999999" />
+            <trkpt lat="52.908129999999986" lon="5.046800000000009" />
+            <trkpt lon="5.0501999999999905" lat="52.90908999999998" />
+            <trkpt lat="52.91118000000001" lon="5.04875000000001" />
+            <trkpt lon="5.05173000000001" lat="52.91209999999999" />
+            <trkpt lon="5.050166666666667" lat="52.913999999999994" />
+            <trkpt lat="52.91463888888889" lon="5.048749999999999" />
+            <trkpt lon="5.048861111111111" lat="52.91513888888889" />
+            <trkpt lon="5.046499592590341" lat="52.91550412234436" />
+            <trkpt lon="5.048229999999988" lat="52.91596999999999" />
+            <trkpt lat="52.92207999999998" lon="5.043400000000001" />
+            <trkpt lat="52.921305555555556" lon="5.039583333333333" />
+            <trkpt lon="5.036940000000006" lat="52.92158000000001" />
+            <trkpt lon="5.038277777777777" lat="52.92547222222222" />
+            <trkpt lat="52.930722222222215" lon="5.037944444444444" />
+            <trkpt lon="5.03936999999999" lat="52.931950000000015" />
+            <trkpt lon="5.037050000000003" lat="52.932590000000005" />
+            <trkpt lat="52.932590000000005" lon="5.037050000000003" />
+        </trkseg>
+    </trk>
 </gpx>
