@@ -22,6 +22,7 @@ Deze README beschrijft de regels en uitgangspunten die gehanteerd worden bij het
 - Beeld boven verhaal: visueel interessante of kenmerkende plekken hebben voorrang
 - In steden: voorkeur voor bezienswaardigheden (monumenten, architectuur, kunst)
 - Buiten steden: voorkeur voor off-road wandelpaden
+- Vermijd fietspaden, wandelaars en fietsers verdragen zich slecht
 - De route kruist nooit, en geen heen en weertjes
 
 
